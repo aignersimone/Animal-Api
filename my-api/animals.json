@@ -47,7 +47,7 @@
     "type": "Cat",
     "breed": "Maine Coon",
     "image": "https://media-eu.husse.com/media/1b/df/c1/1607081048/iStock-1031592516.jpg",
-    "description": "Luna is a curious and independent cat who loves to explore her surroundings.",
+    "description":  "Luna is a curious and independent 5-year-old female Maine Coon who loves to explore her surroundings. She is castrated and has a majestic appearance with her large size, tufted ears, and bushy tail. Luna enjoys climbing, playing with toys, and observing the world from high vantage points. She is known for her gentle and friendly nature, making her a wonderful companion for families and individuals alike. Luna thrives on attention and enjoys being petted and groomed, though she also appreciates her alone time. Her previous owner had to give her up due to allergies, and Luna is now seeking a forever home where she can continue her adventures. Luna would do best in a home where she has plenty of space to roam and explore. She is good with other pets and children, making her a versatile addition to any household. Luna is ready to bring her charm and companionship to a new family and become a beloved member of the home.",
     "location": "Houston",
     "liked": false
   },
@@ -138,8 +138,8 @@
   "type": "Cat",
   "breed": "Persian",
   "image": "https://www.thesprucepets.com/thmb/5OSN_p9hUfPssKsJORQDGnAz_tQ=/1963x0/filters:no_upscale():strip_icc()/GettyImages-181861505-4e63227ed0a14dc9bfe86848ef54caf3.jpg",
-  "description": "Mittens is a calm and gentle cat who enjoys lounging and being pampered.",
-  "location": "Boston",
+  "description": "Mittens is a calm and gentle 2-year-old male Persian cat looking for a tranquil home. He is not castrated and has a luxurious, long coat that requires regular grooming to keep it looking its best. Mittens enjoys lounging in sunny spots and being pampered with gentle brushing and petting. He is a very laid-back cat who prefers a quiet environment where he can relax and feel safe. Mittens is also very affectionate and loves to snuggle with his human companions. He gets along well with other cats and is patient with children. Mittens is looking for a family that can provide him with the love and attention he deserves. His previous owner could no longer care for him due to health issues, so Mittens is now seeking a new home where he can continue to enjoy his peaceful lifestyle. He would thrive in a home where he can have his own space and plenty of cozy spots to relax. Mittens is ready to bring his calm and loving presence to a new family and become a cherished member of the home.",
+    "location": "Boston",
     "liked": false
 },
   {
@@ -151,7 +151,7 @@
     "type": "Cat",
     "breed": "British Shorthair",
     "image": "https://www.shutterstock.com/image-photo/beautiful-blue-british-shorthair-little-600nw-1810220836.jpg",
-    "description": "Oliver is a playful kitten who loves toys and interactive games.",
+    "description": "Oliver is a playful and curious 6-month-old male British Shorthair kitten looking for a loving home. He is castrated and has a plush, soft coat with a round face and big, expressive eyes. Oliver loves to play with toys and enjoys interactive games with his human companions. He is very social and gets along well with other pets and children. Oliver is also very affectionate and loves to cuddle and be petted. His previous owner had to move to a no-pets apartment, so Oliver is now looking for a new family where he can continue to explore and play. He would thrive in a home where he can be part of daily activities and receive plenty of love and attention. Oliver is ready to bring his playful energy and sweet personality to a new home and become a beloved member of the family.",
     "location": "Miami",
     "liked": false
   },
@@ -164,7 +164,7 @@
     "type": "Dog",
     "breed": "Beagle",
     "image": "https://www.zooroyal.at/magazin/wp-content/uploads/2017/01/beagle-hunderasse-760x560.jpg",
-    "description": "Daisy is a curious and friendly dog who loves to sniff and explore the outdoors.",
+    "description": "Daisy is a curious and friendly 4-year-old female Beagle looking for a loving home. She is castrated and has a beautiful tri-colored coat with expressive, soulful eyes. Daisy loves to sniff and explore the outdoors, making her an excellent companion for walks and adventures. She is very social and enjoys the company of other dogs and children. Daisy is also very affectionate and loves to cuddle with her human companions. Her previous owner could no longer care for her due to a change in circumstances, so Daisy is now seeking a new family where she can continue to explore and play. She would thrive in a home with a yard where she can run and sniff to her heart's content. Daisy is ready to bring her friendly and curious nature to a new family and become a beloved member of the home.",
     "location": "Seattle",
     "liked": false
   },
@@ -177,7 +177,7 @@
     "type": "Dog",
     "breed": "Boxer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Male_fawn_Boxer_undocked.jpg/1200px-Male_fawn_Boxer_undocked.jpg",
-    "description": "Rocky is a loyal and protective dog who loves to be around his family.",
+    "description": "Rocky is a loyal and protective 7-year-old male Boxer looking for a dedicated and loving owner. He is not castrated and has a strong, muscular build with a short, smooth coat. Rocky loves to be around his family and is very protective of his loved ones. He is also very playful and enjoys playing with toys and running around in the yard. Rocky is well-trained and knows basic commands. His previous owner could no longer care for him due to health issues, so Rocky is now seeking a new home where he can continue to be a loyal companion. He would thrive in a home with a yard where he can run and play. Rocky is good with children but may need some time to adjust to other pets. He is ready to bring his loyalty and playful energy to a new family and become a cherished member of the home.",
     "location": "Denver",
     "liked": false
   },
@@ -190,7 +190,7 @@
     "type": "Dog",
     "breed": "Cocker Spaniel",
     "image": "https://www.tierchenwelt.de/images/stories/haustiere/hunde/cocker_spaniel_suess_l.jpg",
-    "description": "Lily is a sweet and affectionate puppy who enjoys playing and cuddling.",
+    "description": "Lily is a sweet and affectionate 5-month-old female Cocker Spaniel puppy looking for a loving home. She is castrated and has a beautiful, silky coat with long ears and big, expressive eyes. Lily loves to play and enjoys cuddling with her human companions. She is very social and gets along well with other dogs and children. Lily is also very curious and loves to explore her surroundings. Her previous owner could no longer care for her due to personal reasons, so Lily is now seeking a new family where she can continue to play and be loved. She would thrive in a home where she can be part of daily activities and receive plenty of love and attention. Lily is ready to bring her sweet personality and playful energy to a new home and become a beloved member of the family.",
     "location": "Austin",
     "liked": false
   },
@@ -203,7 +203,7 @@
     "type": "Rabbit",
     "breed": "Holland Lop",
     "image": "https://gregrichdvm.com/wp-content/uploads/2022/11/holland-lop-Metairie-LA.jpg",
-    "description": "Thumper is a gentle and curious rabbit who loves to hop around and explore.",
+    "description": "Thumper is a gentle and curious 1-year-old male Holland Lop rabbit looking for a loving home. He is castrated and has a soft, fluffy coat with adorable lop ears. Thumper loves to hop around and explore his surroundings. He is very social and enjoys being petted and cuddled. Thumper is also very playful and loves to interact with toys and other rabbits. His previous owner could no longer care for him due to a change in circumstances, so Thumper is now seeking a new family where he can continue to explore and play. He would thrive in a home where he can have plenty of space to hop around and receive lots of love and attention. Thumper is ready to bring his gentle and playful nature to a new family and become a beloved member of the home.",
     "location": "Portland",
     "liked": false
   },
@@ -216,7 +216,7 @@
     "type": "Rabbit",
     "breed": "Lionhead",
     "image": "https://www.zooplus.co.uk/magazine/wp-content/uploads/2021/01/bicoloured-lionhead-rabbit.jpeg",
-    "description": "BunBun is a fluffy and friendly rabbit who enjoys being petted and playing with toys.",
+    "description": "BunBun is a fluffy and friendly 2-year-old female Lionhead rabbit looking for a loving home. She is not castrated and has a beautiful, fluffy coat that gives her a lion-like appearance. BunBun loves to be petted and enjoys playing with toys. She is very social and gets along well with other rabbits and children. BunBun is also very curious and loves to explore her surroundings. Her previous owner could no longer care for her due to personal reasons, so BunBun is now seeking a new family where she can continue to play and be loved. She would thrive in a home where she can have plenty of space to hop around and receive lots of love and attention. BunBun is ready to bring her fluffy and friendly nature to a new family and become a beloved member of the home.",
     "location": "San Diego",
     "liked": false
   },
@@ -229,7 +229,7 @@
     "type": "Rabbit",
     "breed": "Angora",
     "image": "https://i.pinimg.com/736x/91/51/6b/91516bb1c240e4baa9f5198b190ef616.jpg",
-    "description": "Snowball is a soft and calm rabbit who loves to be groomed and cuddled.",
+    "description": "Snowball is a gentle and fluffy 3-year-old female Angora rabbit looking for a loving home. She is castrated and has a soft, fluffy coat that requires regular grooming to keep it looking its best. Snowball loves to hop around and explore her surroundings. She is very social and enjoys being petted and cuddled. Snowball is also very playful and loves to interact with toys and other rabbits. Her previous owner could no longer care for her due to a change in circumstances, so Snowball is now seeking a new family where she can continue to explore and play. She would thrive in a home where she can have plenty of space to hop around and receive lots of love and attention. Snowball is ready to bring her gentle and playful nature to a new family and become a beloved member of the home.",
     "location": "Las Vegas",
     "liked": true
   },
