@@ -518,5 +518,18 @@
     "description": "Mia is a playful Bengal cat with striking leopard-like markings and an active personality. She loves interactive toys and climbing high perches to observe her surroundings.",
     "location": "Orlando",
     "liked": false
+  },
+  {
+    "id": "41",
+    "name": "Susi",
+    "age": "13 year",
+    "gender": "female",
+    "castrated": "yes",
+    "type": "Dog",
+    "breed": "Poodle",
+    "image": "https://static.wixstatic.com/media/0bfe04_c8b08dc6da434280b5ffaf6102510453~mv2.jpg/v1/crop/x_268,y_0,w_1780,h_1530/fill/w_400,h_344,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Carino_JPG.jpg",
+    "description": "Meet Susi, a charming 13-year-old female Poodle from New York. Susi has a gentle demeanor and a heartwarming presence that lights up any room she enters. Her soft, curly fur and expressive eyes make her irresistible to anyone she meets. Despite her age, Susi is full of energy and loves going for walks in the park, where she enjoys sniffing around and exploring her surroundings. She's been a cherished companion and is dearly loved in her home. Susi is already spayed (castrated), ensuring she's happy and healthy for many more years of companionship. If you're looking for a loyal friend who exudes warmth and affection, Susi is the perfect match for you",
+    "location": "New York",
+    "liked": false
   }
 ]
