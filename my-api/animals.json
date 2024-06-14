@@ -255,7 +255,7 @@
     "type": "Cat",
     "breed": "Sphynx",
     "image": "https://www.catster.com/wp-content/uploads/2023/11/Fawn-Sphynx_sophiecat_Shutterstock-800x592.jpg",
-    "description": "Cleo is a friendly and affectionate cat who loves to be the center of attention.",
+    "description": "Cleo is a friendly and affectionate Sphynx cat who absolutely loves to be the center of attention. She enjoys being around people and thrives on interaction. Her hairless, velvety skin makes her a unique companion, and she loves the warmth of human contact. Cleo is known for her playful and curious nature, often following her favorite humans around the house. Despite her lack of fur, she is surprisingly warm and cuddly. She needs regular baths to keep her skin healthy, which she doesn’t mind as long as she gets extra affection afterwards. Cleo will make a wonderful addition to any home looking for a loving and devoted feline friend.",
     "location": "San Antonio",
     "liked": true
   },
@@ -268,7 +268,7 @@
     "type": "Cat",
     "breed": "Russian Blue",
     "image": "https://www.zooplus.co.uk/magazine/wp-content/uploads/2018/03/russian-blue-768x510.jpg",
-    "description": "Shadow is a calm and gentle cat who enjoys quiet time and cuddling.",
+    "description": "Shadow is a calm and gentle Russian Blue who enjoys her quiet time and cuddling with her favorite people. With her plush, silvery blue coat and striking green eyes, she is not only beautiful but also incredibly soothing to be around. Shadow is the perfect companion for someone who appreciates a more tranquil and serene atmosphere. She enjoys lounging in sunny spots and will happily sit beside you while you read or watch TV. Shadow is well-behaved and has a gentle disposition, making her an excellent pet for both individuals and families. She is also quite independent, perfectly content with some alone time, yet always ready to snuggle up when you need a purring friend.",
     "location": "Phoenix",
     "liked": false
   },
@@ -281,7 +281,7 @@
     "type": "Cat",
     "breed": "Ragdoll",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ragdoll%2C_blue_mitted.JPG/1200px-Ragdoll%2C_blue_mitted.JPG",
-    "description": "Felix is a laid-back and friendly cat who loves to relax and be pampered.",
+    "description": "Felix is a laid-back and friendly Ragdoll who loves to relax and be pampered. His soft, fluffy coat and striking blue eyes make him a stunning companion. Felix is known for his docile and placid temperament, making him an ideal pet for families with children or other pets. He loves to follow his human companions around the house, often flopping down at their feet or jumping into their laps for a cozy nap. Felix is very affectionate and enjoys being petted and brushed, which helps to maintain his luxurious coat. His calm demeanor and loving nature make him a wonderful addition to any home looking for a loyal and gentle feline friend.",
     "location": "Philadelphia",
     "liked": false
   },
@@ -294,7 +294,7 @@
     "type": "Cat",
     "breed": "Abyssinian",
     "image": "https://www.petrebels.com/en/wp-content/uploads/sites/3/2023/03/sergey-semin-slJ2lG1Pego-unsplash-1024x681-1.jpg",
-    "description": "Milo is an energetic and playful kitten who loves to climb and explore.",
+    "description": "Milo is an energetic and playful Abyssinian kitten who loves to climb and explore. His sleek, muscular build and expressive almond-shaped eyes reflect his lively and adventurous spirit. Milo is incredibly curious and intelligent, always looking for new things to discover and play with. He is known for his agility and loves to climb, so having plenty of cat trees and shelves will keep him happy and entertained. Despite his playful nature, Milo is also very affectionate and enjoys snuggling up with his humans after a day of fun and games. He will thrive in a home that can provide plenty of stimulation and affection, making him a delightful and dynamic companion.",
     "location": "San Jose",
     "liked": false
   },
@@ -307,7 +307,7 @@
     "type": "Rabbit",
     "breed": "Netherland Dwarf",
     "image": "https://images.squarespace-cdn.com/content/v1/5f11acca056d9b31bdc66141/1615231975008-W01J1YOKDNMNKWUK25A2/IMG_3961_jpg.jpg",
-    "description": "Frosty is a small and sweet rabbit who loves to be held and petted.",
+    "description": "Frosty is a small and sweet Netherland Dwarf rabbit who loves to be held and petted. His petite size and adorable features make him a charming little companion. Frosty enjoys gentle interaction and will often sit quietly in your lap, enjoying the attention and affection. He is curious and likes to explore his surroundings, but he always returns to his favorite spot for a cuddle. Frosty is well-suited for families or individuals who can provide him with the love and care he craves. His friendly and gentle nature makes him an ideal pet for those looking for a calm and affectionate rabbit.",
     "location": "Orlando",
     "liked": false
   },
@@ -320,7 +320,7 @@
     "type": "Rabbit",
     "breed": "Mini Rex",
     "image": "https://media-be.chewy.com/wp-content/uploads/mini-rex-main.jpg",
-    "description": "Bella is a friendly and curious rabbit who loves to explore and play.",
+    "description": "Bella is a friendly and curious Mini Rex rabbit who loves to explore and play. Her soft, velvety fur and expressive eyes make her a joy to pet and interact with. Bella is very social and enjoys being around people, often hopping over to see what you’re up to. She loves to explore her environment, so providing her with plenty of toys and space to roam will keep her happy and stimulated. Bella is also quite playful and enjoys engaging in fun activities with her human companions. Her lively and affectionate personality makes her a wonderful addition to any home looking for a playful and interactive rabbit.",
     "location": "Cincinnati",
     "liked": false
   },
@@ -333,7 +333,7 @@
     "type": "Rabbit",
     "breed": "Flemish Giant",
     "image": "https://image.petmd.com/files/styles/978x550/public/2023-07/Flemish.giant_.jpg",
-    "description": "Cotton is a large and gentle rabbit who enjoys lounging and being around people.",
+    "description": "Cotton is a large and gentle Flemish Giant rabbit who enjoys lounging and being around people. His impressive size and gentle demeanor make him a striking yet soothing presence in any home. Cotton loves to relax and often stretches out in his favorite spot, enjoying the tranquility. Despite his size, he is very gentle and enjoys being petted and cuddled. Cotton is also quite sociable and likes to be near his human companions, often following them around the house. His calm and friendly nature makes him an excellent pet for families or individuals looking for a large, gentle, and affectionate rabbit.",
     "location": "Atlanta",
     "liked": false
   },
@@ -346,7 +346,7 @@
     "type": "Rabbit",
     "breed": "English Angora",
     "image": "https://m.media-amazon.com/images/I/71Iq5i7B7bL._AC_UF350,350_QL80_.jpg",
-    "description": "Thistle is a fluffy and friendly rabbit who loves to be groomed and cuddled.",
+    "description": "Thistle is a fluffy and friendly English Angora rabbit who loves to be groomed and cuddled. His luxurious, long fur requires regular grooming, which he enjoys as it gives him extra time with his favorite humans. Thistle is very affectionate and loves to be held, often snuggling into your arms. He is also quite playful and enjoys exploring his surroundings, though he always comes back for some grooming and cuddles. Thistle’s gentle and loving nature makes him an ideal pet for those who enjoy spending time grooming and interacting with their rabbit. His fluffy appearance and sweet personality make him a delightful companion.",
     "location": "Charlotte",
     "liked": false
   },
@@ -359,7 +359,7 @@
     "type": "Rabbit",
     "breed": "Dutch",
     "image": "https://curiodyssey.org/wp-content/uploads/2021/05/animal-dutch-rabbit.jpg",
-    "description": "Hopper is an active and curious rabbit who loves to hop around and explore.",
+    "description": "Hopper is an active and curious Dutch rabbit who loves to hop around and explore. His striking black-and-white markings and lively personality make him a standout companion. Hopper is very energetic and enjoys spending time exploring new environments and playing with toys. He is also quite social and enjoys interacting with his human companions, often hopping around their feet in excitement. Despite his active nature, Hopper also enjoys quiet moments and will happily snuggle up for some petting and affection. His inquisitive and playful personality makes him a wonderful addition to any home looking for an active and engaging rabbit.",
     "location": "Indianapolis",
     "liked": false
   },
@@ -372,7 +372,7 @@
     "type": "Rabbit",
     "breed": "Holland Lop",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Holland_lop_rabbit.jpg/2560px-Holland_lop_rabbit.jpg",
-    "description": "Pepper is a lively and playful rabbit who loves to interact with people and explore new environments.",
+    "description": "Pepper is a lively and playful Holland Lop rabbit who loves to interact with people and explore new environments. His adorable lop ears and compact size make him an endearing companion. Pepper is very social and enjoys being the center of attention, often seeking out his human companions for playtime and interaction. He loves to explore his surroundings and is always on the lookout for new adventures. Pepper is also very affectionate and enjoys being petted and cuddled. His playful and friendly nature makes him an ideal pet for families or individuals looking for an active and engaging rabbit.",
     "location": "Portland",
     "liked": false
   },
@@ -385,7 +385,7 @@
     "type": "Rabbit",
     "breed": "Lionhead",
     "image": "https://www.shutterstock.com/image-photo/cute-portrait-lionhead-rabbit-green-600nw-779234086.jpg",
-    "description": "Fluffy is a gentle and affectionate rabbit who enjoys being petted and spending time with humans.",
+    "description": "Fluffy is a gentle and affectionate Lionhead rabbit who enjoys being petted and spending time with humans. Her distinctive mane of fur around her head gives her a charming and unique appearance. Fluffy is very friendly and loves to be around people, often seeking out attention and affection. She enjoys being petted and will often sit quietly in your lap, enjoying the gentle interaction. Fluffy is also quite playful and enjoys exploring her environment, though she always comes back for some cuddle time. Her gentle and loving nature makes her a wonderful addition to any home looking for a sweet and affectionate rabbit.",
     "location": "Seattle",
     "liked": false
   },
@@ -398,7 +398,7 @@
     "type": "Rabbit",
     "breed": "Rex",
     "image": "https://images.squarespace-cdn.com/content/v1/5bb56e2290f904412702cc2e/1538674334825-SNYCXGCQKI3OH89BP90R/IMG_20180511_190858.jpg",
-    "description": "Cinnamon is a calm and curious rabbit who loves to explore and enjoys gentle interactions.",
+    "description": "Cinnamon is a calm and curious Rex rabbit who loves to explore and enjoys gentle interactions. Her velvety fur and calm demeanor make her a soothing presence in any home. Cinnamon is very curious and enjoys exploring her surroundings, often hopping around to investigate new areas. She is also very gentle and enjoys being petted and cuddled, making her a great companion for quiet moments. Cinnamon’s calm and friendly nature makes her an ideal pet for families or individuals looking for a gentle and affectionate rabbit. She thrives on gentle interaction and will quickly become a beloved member of any household.",
     "location": "Denver",
     "liked": false
   }
