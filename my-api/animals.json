@@ -462,7 +462,7 @@
     "castrated": "yes",
     "type": "Dog",
     "breed": "Australian Shepherd",
-    "image": "https://aussies-wa.com/wp-content/uploads/2022/04/Tiere-2-2-scaled-400x400.jpg",
+    "image": "https://image.jimcdn.com/app/cms/image/transf/dimension=4096x4096:format=jpg/path/s9a5544457b718526/image/idc4cbf419d18b836/version/1698107729/image.jpg",
     "description": "Apollo is an intelligent and energetic Australian Shepherd who excels in agility and obedience training. His striking blue merle coat and friendly disposition make him a beloved companion for active families.",
     "location": "Austin",
     "liked": false
@@ -500,8 +500,8 @@
     "gender": "male",
     "castrated": "no",
     "type": "Dog",
-    "breed": "https://christopherus-hund.de/files/media/images/Blog/2024/Rasseportrait%3A%20der%20Shiba%20Inu/Christopherus_Magazin_Artikel_Shiba_Inu_Teaser.jpg",
-    "image": "",
+    "breed": "Shiba Inu",
+    "image": "https://christopherus-hund.de/files/media/images/Blog/2024/Rasseportrait%3A%20der%20Shiba%20Inu/Christopherus_Magazin_Artikel_Shiba_Inu_Teaser.jpg",
     "description": "Loki is an independent and spirited Shiba Inu known for his fox-like appearance and loyalty. He enjoys outdoor adventures and prefers a structured routine with his human family.",
     "location": "Nashville",
     "liked": false
