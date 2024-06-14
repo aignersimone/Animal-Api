@@ -430,13 +430,13 @@
   },
   {
     "id": "34",
-    "name": "Rocky",
-    "age": "2.5 years",
+    "name": "Ruffel",
+    "age": "1 year",
     "gender": "male",
-    "castrated": "yes",
+    "castrated": "no",
     "type": "Dog",
     "breed": "Boxer",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Male_fawn_Boxer_undocked.jpg/1200px-Male_fawn_Boxer_undocked.jpg",
+    "image": "https://www.shutterstock.com/image-photo/sweet-little-boxer-puppy-stand-600nw-1848249871.jpg",
     "description": "Rocky is a playful and loyal Boxer who loves to bounce around and play fetch. His goofy personality and boundless energy make him a cherished companion for active families.",
     "location": "Philadelphia",
     "liked": false
